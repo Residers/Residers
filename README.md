@@ -10,9 +10,9 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-Residers&style=flat-square&color=blue" alt="ghpvc"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/eOp69U3RziMpe3kjnR/giphy.gif" height="300"/>
-</div>
+</div> -->
 
   ---
   
