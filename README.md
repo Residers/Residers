@@ -11,7 +11,7 @@
     <img src="https://www.codewars.com/users/Residers/badges/small" alt="CW Badge"/>
   </a>
     <a href="https://leetcode.com/Residers">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
   </a>
     </div>
   <img src="https://komarev.com/ghpvc/?username=your-Residers&style=flat-square&color=blue" alt="ghpvc"/>
