@@ -1,4 +1,4 @@
-<div id="header" align="center" style="display:flex;flex-direction: column;">
+<div id="header" align="center" >
   <img src="https://media.giphy.com/media/9ZM2yz0Z3PBMKUPp8V/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/anton-frolkov-447830226">
@@ -7,18 +7,17 @@
   <a href="https://vk.com/an_frolkov">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+      <a href="https://leetcode.com/Residers">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
+  </a>
   <a href="https://www.codewars.com/users/Residers">
     <img src="https://www.codewars.com/users/Residers/badges/small" alt="CW Badge"/>
   </a>
-    <a href="https://leetcode.com/Residers">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
-  </a>
-    </div>
+  
+</div>
   <img src="https://komarev.com/ghpvc/?username=your-Residers&style=flat-square&color=blue" alt="ghpvc"/>
 </div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/eOp69U3RziMpe3kjnR/giphy.gif" height="300"/>
-</div> -->
+
 
   ---
   
