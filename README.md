@@ -30,7 +30,7 @@
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-resider-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-frolkov-447830226)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-resider-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-frolkov-447830226) [![Telegram Badge](https://img.shields.io/badge/-resider-blue?style=flat&logo=telegram&logoColor=white)](https://www.linkedin.com/in/anton-frolkov-447830226)
 
 ---
 
