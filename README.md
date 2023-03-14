@@ -7,10 +7,13 @@
   <a href="https://vk.com/an_frolkov">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-<a href="https://www.codewars.com/users/Residers">
+  <a href="https://www.codewars.com/users/Residers">
     <img src="https://www.codewars.com/users/Residers/badges/small" alt="CW Badge"/>
   </a>
-</div>
+    <a href="https://leetcode.com/Residers">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode"/>
+  </a>
+    </div>
   <img src="https://komarev.com/ghpvc/?username=your-Residers&style=flat-square&color=blue" alt="ghpvc"/>
 </div>
 <!-- <div align="center">
